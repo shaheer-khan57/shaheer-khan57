@@ -2,16 +2,18 @@
 
 🚀 **Electrical Engineering | AI & Machine Learning Enthusiast**  
 🔬 Researching **Short-Term Load Forecasting (STLF)** | **Deep Learning** | **Power Systems**  
-📊 Exploring **LSTM, GRU, BiGRU, BiLSTM, CNN, and Time Series Analysis** for Energy Forecasting  
+📊 Exploring **LSTM, GRU, BiGRU, BiLSTM, CNN, Transformers and Time Series Analysis** for Energy Forecasting  
 
 ## 🔥 Projects & Research  
-- ⚡ **STLF using LSTM, GRU, BiGRU, BiLSTM & CNN** → Enhancing energy demand forecasting accuracy  
+- ⚡ **STLF using LSTM, GRU, BiGRU, BiLSTM & CNN** → Enhancing energy demand forecasting accuracy
+- 🤖 **Transformer-based Forecasting** → Implementing **Informer**, **PatchTST**, **Autoformer**, and **iTransformer** for long-sequence time series prediction
 - 📈 **Time Series Analysis** → Predicting trends in power consumption  
 - 🧠 **AI & ML for Power Systems** → Optimizing smart grid operations  
 
 ## 🛠️ Tech Skills  
 🔹 **Programming:** Python, MATLAB  
 🔹 **Libraries & Frameworks:** PyTorch, NumPy, Pandas, Scikit-learn  
+🔹 **Advanced Models:** LSTM, GRU, Transformers (Informer, PatchTST, Autoformer, iTransformer)  
 🔹 **Tools:** Jupyter Notebook, Microsoft Word, PowerPoint  
 
 ## 🔗 Connect with Me  
